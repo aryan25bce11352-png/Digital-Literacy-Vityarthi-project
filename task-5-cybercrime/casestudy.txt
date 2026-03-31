@@ -1,1 +1,7 @@
+UPI fraud is one of the most common cybercrimes in India. In this type of fraud, attackers trick users into sharing sensitive payment information or approving fraudulent transactions.
 
+Typically, the fraudster contacts the victim through a phone call, message, or social media. They may pretend to be a bank official, customer support agent, or online seller. The attacker then sends a payment request or a fake link, claiming that the user will receive money. However, when the victim enters their UPI PIN, the money is actually deducted from their account.
+
+Students and young users are often targeted due to a lack of awareness about digital payment safety. These scams are increasing rapidly with the growth of online transactions and digital wallets.
+
+The consequences of such fraud include financial loss, stress, and difficulty in recovering the stolen money if not reported immediately.
